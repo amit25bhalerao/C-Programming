@@ -1,0 +1,3 @@
+D:/C Programming/CircluarQueue/cmake-build-debug/CMakeFiles/CircluarQueue.dir
+D:/C Programming/CircluarQueue/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/C Programming/CircluarQueue/cmake-build-debug/CMakeFiles/rebuild_cache.dir

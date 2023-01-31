@@ -1,0 +1,3 @@
+D:/C Programming/Studentdatabaseusingsinglylinkedlist/cmake-build-debug/CMakeFiles/Studentdatabaseusingsinglylinkedlist.dir
+D:/C Programming/Studentdatabaseusingsinglylinkedlist/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/C Programming/Studentdatabaseusingsinglylinkedlist/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,3 @@
+D:/C Programming/Tripletssumequaltozero/cmake-build-debug/CMakeFiles/Tripletssumequaltozero.dir
+D:/C Programming/Tripletssumequaltozero/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/C Programming/Tripletssumequaltozero/cmake-build-debug/CMakeFiles/rebuild_cache.dir

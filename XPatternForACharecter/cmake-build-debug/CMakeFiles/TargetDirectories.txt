@@ -1,0 +1,3 @@
+D:/C Programming/XPatternForACharecter/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/C Programming/XPatternForACharecter/cmake-build-debug/CMakeFiles/XPatternForACharecter.dir
+D:/C Programming/XPatternForACharecter/cmake-build-debug/CMakeFiles/rebuild_cache.dir

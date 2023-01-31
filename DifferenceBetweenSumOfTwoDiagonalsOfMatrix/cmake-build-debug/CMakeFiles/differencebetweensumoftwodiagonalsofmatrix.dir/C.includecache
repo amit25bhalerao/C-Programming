@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+E:/C Programming/differencebetweensumoftwodiagonalsofmatrix/main.c
+math.h
+-
+stdio.h
+-
+string.h
+-
+stdlib.h
+-
+assert.h
+-
+limits.h
+-
+stdbool.h
+-
+

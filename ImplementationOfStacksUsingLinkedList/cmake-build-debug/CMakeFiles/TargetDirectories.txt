@@ -1,0 +1,3 @@
+D:/C Programming/Implementationofstacksusinglinkedlist/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/C Programming/Implementationofstacksusinglinkedlist/cmake-build-debug/CMakeFiles/Implementationofstacksusinglinkedlist.dir
+D:/C Programming/Implementationofstacksusinglinkedlist/cmake-build-debug/CMakeFiles/rebuild_cache.dir

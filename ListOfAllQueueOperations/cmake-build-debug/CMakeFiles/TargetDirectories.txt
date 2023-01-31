@@ -1,0 +1,3 @@
+D:/C Programming/listofallqueueoperations/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/C Programming/listofallqueueoperations/cmake-build-debug/CMakeFiles/listofallqueueoperations.dir
+D:/C Programming/listofallqueueoperations/cmake-build-debug/CMakeFiles/rebuild_cache.dir

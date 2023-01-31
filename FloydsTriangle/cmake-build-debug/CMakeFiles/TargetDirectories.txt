@@ -1,0 +1,3 @@
+D:/C Programming/Floydstriangle/cmake-build-debug/CMakeFiles/Floydstriangle.dir
+D:/C Programming/Floydstriangle/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/C Programming/Floydstriangle/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2019.1\bin\cmake\win\bin\cmake.exe" -E remove -f CMakeFiles\A_BC_DEF____Ladder.dir/objects.a
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ar.exe cr CMakeFiles\A_BC_DEF____Ladder.dir/objects.a @CMakeFiles\A_BC_DEF____Ladder.dir\objects1.rsp
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE -g   -Wl,--whole-archive CMakeFiles\A_BC_DEF____Ladder.dir/objects.a -Wl,--no-whole-archive  -o A_BC_DEF____Ladder.exe -Wl,--out-implib,libA_BC_DEF____Ladder.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\A_BC_DEF____Ladder.dir\linklibs.rsp
