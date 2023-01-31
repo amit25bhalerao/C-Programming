@@ -72,53 +72,52 @@
 [p08]: https://github.com/amit25bhalerao/CProgramming/tree/main/A%2CBC%2CDEF....Ladder/main.c
 [p09]: https://github.com/amit25bhalerao/CProgramming/tree/main/Armstrongnumber/main.c
 [p10]: https://github.com/amit25bhalerao/CProgramming/tree/main/BinaryTree/main.c
-[p11]:https://github.com/amit25bhalerao/CProgramming/tree/main/BlockPattern 
-[p12]: 
-[p13]: 
-[p14]: 
-[p15]: 
-[p16]: 
-[p17]: 
-[p18]: 
-[p19]: 
-[p20]:
-[p1]: 
-[p2]: 
-[p3]: 
-[p4]: 
-[p5]: 
-[p6]: 
-[p7]: 
-[p8]: 
-[p9]: 
-[p0]:
-[p1]: 
-[p2]: 
-[p3]: 
-[p4]: 
-[p5]: 
-[p6]: 
-[p7]: 
-[p8]: 
-[p9]: 
-[p0]:
-[p1]: 
-[p2]: 
-[p3]: 
-[p4]: 
-[p5]: 
-[p6]: 
-[p7]: 
-[p8]: 
-[p9]: 
-[p0]:
-[p1]: 
-[p2]: 
-[p3]: 
-[p4]: 
-[p5]: 
-[p6]: 
-[p7]: 
-[p8]: 
-[p9]: 
-[p0]:
+[p11]: https://github.com/amit25bhalerao/CProgramming/tree/main/BlockPattern/main.c 
+[p12]: https://github.com/amit25bhalerao/CProgramming/tree/main/ButterflyPatternForACharecter/main.c
+[p13]: https://github.com/amit25bhalerao/CProgramming/tree/main/CircluarQueue/main.c
+[p14]: https://github.com/amit25bhalerao/CProgramming/tree/main/CircularDoublyEndedLinkedList/main.c
+[p15]: https://github.com/amit25bhalerao/CProgramming/tree/main/CircularLinkedListUsingHeaderNode/main.c
+[p16]: https://github.com/amit25bhalerao/CProgramming/tree/main/ConcatenateTwoLinkedLists/main.c
+[p17]: https://github.com/amit25bhalerao/CProgramming/tree/main/DifferenceBetweenSumOfTwoDiagonalsOfMatrix/main.c
+[p18]: https://github.com/amit25bhalerao/CProgramming/tree/main/DoubleEndedQueue/main.c
+[p19]: https://github.com/amit25bhalerao/CProgramming/tree/main/DoubleEndedSinglyLinkedList/main.c
+[p20]: https://github.com/amit25bhalerao/CProgramming/tree/main/DoublyLinkedList/main.c
+[p21]: https://github.com/amit25bhalerao/CProgramming/tree/main/EmployeeDatabaseUsingDoublyLinkedList/main.c
+[p22]: https://github.com/amit25bhalerao/CProgramming/tree/main/EmployeeDetails/main.c
+[p23]: https://github.com/amit25bhalerao/CProgramming/tree/main/EvaluationOfPostfix/main.c
+[p24]: https://github.com/amit25bhalerao/CProgramming/tree/main/FibonacciTriangle/main.c
+[p25]: https://github.com/amit25bhalerao/CProgramming/tree/main/FloydsTriangle/main.c
+[p26]: https://github.com/amit25bhalerao/CProgramming/tree/main/HarshadNumber/main.c
+[p27]: https://github.com/amit25bhalerao/CProgramming/tree/main/HashingTable/main.c
+[p28]: https://github.com/amit25bhalerao/CProgramming/tree/main/HelloWorld/main.c
+[p29]: https://github.com/amit25bhalerao/CProgramming/tree/main/ImplementationOfStacksUsingLinkedList/main.c
+[p30]: https://github.com/amit25bhalerao/CProgramming/tree/main/InfixToPostfix/main.c
+[p31]: https://github.com/amit25bhalerao/CProgramming/tree/main/InsertingAndDeletingItemInArray/main.c
+[p32]: https://github.com/amit25bhalerao/CProgramming/tree/main/LinkedListOperations/main.c
+[p33]: https://github.com/amit25bhalerao/CProgramming/tree/main/ListOfAllQueueOperations/main.c
+[p34]: https://github.com/amit25bhalerao/CProgramming/tree/main/ListOfAllStackOperations/main.c
+[p35]: https://github.com/amit25bhalerao/CProgramming/tree/main/List_Of_All_Array_Operations/main.c
+[p36]: https://github.com/amit25bhalerao/CProgramming/tree/main/MaximumAndMinimumOfNElementsInArray/main.c
+[p37]: https://github.com/amit25bhalerao/CProgramming/tree/main/MergingTwoArrays/main.c
+[p38]: https://github.com/amit25bhalerao/CProgramming/tree/main/MultiplicationTableOfANumber/main.c
+[p39]: https://github.com/amit25bhalerao/CProgramming/tree/main/Next15LeapYear/main.c
+[p40]: https://github.com/amit25bhalerao/CProgramming/tree/main/NextDateCalulation/main.c
+[p41]: https://github.com/amit25bhalerao/CProgramming/tree/main/OperationOnGraph/main.c
+[p42]: https://github.com/amit25bhalerao/CProgramming/tree/main/PalindromeString/main.c
+[p43]: https://github.com/amit25bhalerao/CProgramming/tree/main/PolynomialUsingSLL/main.c
+[p44]: https://github.com/amit25bhalerao/CProgramming/tree/main/PrimeNumbersBetweenAGivenRange/main.c
+[p45]: https://github.com/amit25bhalerao/CProgramming/tree/main/PyramidPattern/main.c
+[p46]: https://github.com/amit25bhalerao/CProgramming/tree/main/QueueUsingLinkedList/main.c
+[p47]: https://github.com/amit25bhalerao/CProgramming/tree/main/ReverseANumberUsingRecursion/main.c
+[p48]: https://github.com/amit25bhalerao/CProgramming/tree/main/ReverseOfAMatrix/main.c
+[p49]: https://github.com/amit25bhalerao/CProgramming/tree/main/SortingInAscendingOrderArray/main.c
+[p50]: https://github.com/amit25bhalerao/CProgramming/tree/main/SparseMatrix/main.c
+[p51]: https://github.com/amit25bhalerao/CProgramming/tree/main/SpecialSum/main.c
+[p52]: https://github.com/amit25bhalerao/CProgramming/tree/main/StringOperationWithoutInbuiltFunction/main.c
+[p53]: https://github.com/amit25bhalerao/CProgramming/tree/main/StringPatternReplaceDesiredPattern/main.c
+[p54]: https://github.com/amit25bhalerao/CProgramming/tree/main/StudentDatabaseUsingSinglyLinkedList/main.c
+[p55]: https://github.com/amit25bhalerao/CProgramming/tree/main/SumofMatrixDiagonal/main.c
+[p56]: https://github.com/amit25bhalerao/CProgramming/tree/main/TowerOfHanoi/main.c
+[p57]: https://github.com/amit25bhalerao/CProgramming/tree/main/TransposeOfMatrix/main.c
+[p58]: https://github.com/amit25bhalerao/CProgramming/tree/main/TripletsSumEqualToZero/main.c
+[p59]: https://github.com/amit25bhalerao/CProgramming/tree/main/XPatternForACharecter/main.c
